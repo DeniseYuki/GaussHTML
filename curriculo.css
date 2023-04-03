@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(224, 205, 223);
+}
+
+h1{
+    color:rgb(24, 5, 19);
+    padding: 5px;
+ }
+
+.place{
+    border-color: #8f4f73 #9d209d #9d209d #8f4f73 ;
+    border: 32px solid #b54abf1c;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.place h2{
+    border-bottom: 1px dashed #8f4f73;
+    margin: 0;
+}
+.place {
+    float:left;
+    width: 660px;
+}
+
+
+.sidenote {
+    background-color: #b33b8f2b;
+    border: 15px solid #9d209d43;
+    padding: 13px;
+    float:right;
+
+}
+.sinode h2{
+    font-size: 14px;
+    margin-top: 0;
+}
+.sinode ol{
+    font-size: 5 px;
+}
+.quadrado{
+    width: 1500px;
+    height: 150px;
+    background-color: #8f4f7313;
+    margin: 10px 40px 40px -350px;
+    
+}
+.clear{
+    clear:both;
+}
+
