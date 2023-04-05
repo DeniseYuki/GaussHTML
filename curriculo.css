@@ -5,10 +5,11 @@ body{
 h1{
     color:rgb(24, 5, 19);
     padding: 5px;}
+    
 
 .circulo{
-        width: 65px;
-        height: 50px;
+        width:10px;
+        height:px;
         background-color: rgb(255, 255, 255);
         margin: 55px 9px 100px 2px;
         border-radius: 250px;
@@ -18,21 +19,19 @@ h1{
 }
 
 .retangulo{
-    width: 190%;
-    height: 150%;
+    width: 100%;
+    height: 100px;
+
     background-color: rgba(191, 49, 146, 0.159);
     border: 3px solid #7e0d6f9f;
+    float: right;
+    text-align: center;
+    padding: 5px;
+
     
     }
 
-.retangulo1{
-    width: 385px;
-    height: 35px;
-    background-color: rgba(166, 92, 143, 0.102);
-    border: 3px solid #c434b14f;
-    text-align:center;
 
-}
 .retangulo h1{
     color: #0e030e9b;
     text-align: center;
@@ -79,7 +78,7 @@ h1{
     font-size: 5 px;
 }
 .quadrado{
-    width: 1150px;
+    width: 1050px;
     height: 150px;
     background-color: #dcd8da00;
     margin: 1px 1px 1px 1px;
@@ -88,6 +87,19 @@ h1{
 .quadrado h2{
     border-bottom: 1px dashed #93135cdf;
     margin: 0;
+
+}
+
+.retangulo1{
+    width: -100px;
+    height: -100px;
+    position:absolute;
+    margin-top: 350px;
+    background-color: rgba(166, 92, 143, 0.102);
+    border: 3px solid #c434b14f;
+    text-align:center;
+    padding: 7px;
+    
 
 }
 
