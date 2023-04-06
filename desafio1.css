@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(183, 56, 181, 0.243);
+}
+
+
+.box{
+    display: flex;
+
+}
+
+.retangulo{
+    width: 1000px;
+    height: 95px;
+    top: 50%;
+    background-color: rgba(191, 49, 146, 0.387);
+    border: 3px solid #7e0d6f37;
+    text-align: center;
+    padding: 5px;
+}
+.foto{
+    width: 10px;
+    height: 0px;
+    background-color: rgb(255,255,255);
+    margin: 55px 9px 100px 2px;
+    border-radius: 250px;
+    margin-bottom: 1px;
+    color:rgb(12,60,102)
+}
+.retanguloVertical{
+    width: 300px;
+    height: 200px;
+    right:100px;
+    background-color: rgba(183, 56, 181, 0.243);
+    padding: 10px;
+}
+.quadradoMenor{
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    right:100px;
+    background-color: rgba(182, 23, 179, 0.266);
+    padding: 10px;
+}
+.quadradoMaior{
+    width: 300px;
+    height: 300px;
+    top:100px;
+    right:100px;
+    background-color: rgba(142, 18, 126, 0.453);
+    padding: 10px;
+}
+
+.titulo{
+    width: 290px;
+    height: 50px;
+    background-color: rgba(150, 57, 136, 0.427);
+    padding: 9px 9px 9px;
+    text-align: center;
+    border: 1px solid rgba(255, 0, 140, 0.261);
+}
