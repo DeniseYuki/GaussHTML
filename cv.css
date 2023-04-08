@@ -3,6 +3,7 @@ body {
     background-color: #d894ca54;
 }
 
+
 .faixa-cinza-vertical-fundo {
     margin-top: -10rem;
     width: 30%;
@@ -99,7 +100,7 @@ body {
     display:flex;
     width: 30px;
     height: 30px;
-    margin-top: 3px;
+    margin-top: 5px;
     margin: 10px;
    
     
