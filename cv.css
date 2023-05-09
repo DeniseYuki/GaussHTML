@@ -41,11 +41,16 @@ body {
 
 .texto {
     position: relative;
-    text-align: justify;
+    text-align:justify;
     left: 10px;
     top: -50px;
 }
-
+.texto2 {
+    position: relative;
+    text-align:center;
+    left: 10px;
+    top: -50px;
+}
 
 .foto-topo-cv {
     position: absolute;
